@@ -1,0 +1,18 @@
+
+
+Begin
+Create a grid.
+	-Array with Is Passable terrain.
+	-draw border boxes
+Create Snake.
+	-object class with keyboard control
+	-border control
+	-length control
+Create Food.
+	-class with grid loc
+	-random spawns
+		-not in snake
+		-not in walls
+Create Collision detection.
+Grow Snake?/Score
+
